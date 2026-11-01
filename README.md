@@ -63,22 +63,3 @@ Me chamo Álisson Ramires, tenho 20 anos e moro em Piripiri-PI. Sou estudante de
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AlissonSena7/AlissonSena7/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AlissonSena7/AlissonSena7/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/AlissonSena7/AlissonSena7/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</div>
